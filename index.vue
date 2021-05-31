@@ -5,8 +5,6 @@
         <v-card-title class="headline" >
           Welcome to the LA Gladiators FanPage
         </v-card-title>
-
-
       </v-col>
             
         <br>
