@@ -14,9 +14,9 @@
           <li>Die Support Rolle: Heilt das verbündete Team</li>
           </ul> <br>
           Jeder Held den man spielen kann hat verschieden aktive und passive Fähigkeiten.
-          Ausserdem wenn nach eine Zeit genug Schaden oder Geheilt hat lädt sich die spezial Fähigkeit
-      </v-col>
+          Ausserdem wenn nach eine Zeit genug Schaden oder Geheilt hat lädt sich die spezial Fähigkeit      
          </v-card-text>
+         </v-col>
   </v-card>
 
 </template>
