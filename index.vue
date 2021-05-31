@@ -8,7 +8,6 @@
       </v-col>
             
         <br>
-        <v-btn>Test</v-btn>
         <br>
             <v-col class="text-right">
              <img src="/Download.png" width="400" alt="Doesn't work" class="mb-5"  /> 
